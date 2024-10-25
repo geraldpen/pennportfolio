@@ -1,0 +1,195 @@
+{
+  "main": {
+    "name": "Mokom Gerald Penn",
+    "occupation": "Software Engineer",
+    "description": "who generally love to know why and how things work",
+    "image": "profilepic.jpg",
+    "bio": "I am a passionate intermediate software Engineer with 3 years of experience and an extensive knowledge in applying engineering principles to develop high-performance and secure applications. I have a keen interest in Backend Development, DevOps and Cloud Computing. I hold , a bachelor's degree in software engineering and i am curruntly persuing a master in information system Security. At my leisure I study Computer Vision (OpenCV and PyTorch), NLP and i have devopsified a lot of applications as my personal projects",
+    "contactmessage": "",
+    "email": "pennmokom5@gmail.com",
+    "phone": "+237 671 975 200",
+    "address": {
+      "street": "Biyem-Assi,  Etoug-Ebe",
+      "city": "Yaounde",
+      "state": "center Region"
+    },
+
+    "resumedownload": "https://drive.google.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "ICT University,  Yaounde",
+        "degree": "Masters's degree",
+        "graduated": "Ongoing",
+        "description": "I'm  curently persuing a Masters in information systems Security"
+						
+      },
+      {
+        "school": "LEAD Higher Institute, Yaounde",
+        "degree": "bachelor' degree",
+        "graduated": "December 2023",
+        "description": "bachelor's degree in software engineering"
+
+      },
+	  {
+        "school": "INIESAT, Yaounde",
+        "degree": "HND",
+        "graduated": "December 2022",
+        "description": "Higher National Diplomat in software engineering"
+				
+      },
+	  {
+        "school": "Udemy",
+        "degree": "DevOps engineering",
+        "graduated": "March 2022",
+        "description": "CI/CD pipeline, kubernetes, docker, jenkine "
+						
+      },
+      {
+        "school": "Udemy",
+        "degree": "AWS",
+        "graduated": "october 2022",
+        "description": "EC2, S3, VPN, AWS codepipelines, teraform, i am, Amazon DynamoDB, AWS Lambda, Amazon RDS "
+						
+      },
+      {
+        "school": "Slime Electronics",
+        "degree": "hardware maintainace",
+        "graduated": "December 2021",
+        "description": "computer Troubleshooting and maintainace, mobilephone maintainace, computer networking "
+						
+      }
+
+	 
+    ],
+    "work": [
+      {
+        "company": "Camtel",
+        "title": "Software Developer and DevOps Engineer",
+        "years": "june 2023 - PRESENT",
+        "description": "Dackend  Development with nodeJs and mysql,  building  DevOps pipelines, Development and maintaince of applications"
+						
+      },
+      {
+        "company": "Gidis computer training center",
+        "title": "Backend Engineer",
+        "years": "septer 2022 - 2023 2023",
+        "description": "Using nodeJS, mySql and MongoDB for backend Development"
+						
+      }
+	
+    ],
+    "skills": [
+      {
+        "name": "kubernetes",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "75%"
+      },
+      {
+        "name": "AWS Cloud",
+        "level": "60%"
+      },
+      {
+        "name": "Microservices",
+        "level": "77%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "79%"
+      },
+      {
+        "name": "gitOps",
+        "level": "75%"
+      },
+	  {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+	  {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+	  {
+        "name": "SQL",
+        "level": "79%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Text-to-Speech App",
+        "category": "Text to speech web bases app",
+        "image": "Text-to-speech-app.jpg",
+        "url": "https://anelembabela.github.io/Text-to-speech-app/"
+      },
+      {
+        "title": "Language Translation App",
+        "category": "Language translation web based app",
+        "image": "trans-lang-app.jpg",
+        "url": "https://anelembabela.github.io/trans-lang-app/"
+      },
+      {
+        "title": "Memory game App",
+        "category": "React based memory game web based app",
+        "image": "game-memory.jpg",
+        "url": "https://game-memory-7ig.pages.dev/"
+      },
+      {
+        "title": "Landing Page",
+        "category": "A React based homepage",
+        "image": "resume-website.jpg",
+        "url": "https://riot-api-1.pages.dev/header"
+      }  
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+     
+      {
+        "text": "Mokom Gerald Pen is one of the most brilliant Engineer I've ever met! I am confident that he will be  of great value for this campany!",
+        "user": "Mr. Bargal"
+      }
+    ]
+  }
+}
